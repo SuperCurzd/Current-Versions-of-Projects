@@ -1,0 +1,4 @@
+{
+  "dynamic_bone_max_affected_transform_count" : 128,
+  "dynamic_bone_max_collider_check_count" : 16
+}
